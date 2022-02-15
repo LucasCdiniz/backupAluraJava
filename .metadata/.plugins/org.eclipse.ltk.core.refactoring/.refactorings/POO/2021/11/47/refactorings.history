@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ex03_ProdutoEletronico.java&apos; to &apos;Exercicios_POO/src/pkgexpoo&apos;&#x0D;&#x0A;- Original project: &apos;POO&apos;&#x0D;&#x0A;- Destination element: &apos;Exercicios_POO/src/pkgexpoo&apos;&#x0D;&#x0A;- Original element: &apos;pkgpoo.ex03_ProdutoEletronico.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Exercicios_POO/src&lt;pkgexpoo" element1="/src&lt;pkgpoo{ex03_ProdutoEletronico.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1636899766289" units="1" version="1.0"/>
+</session>

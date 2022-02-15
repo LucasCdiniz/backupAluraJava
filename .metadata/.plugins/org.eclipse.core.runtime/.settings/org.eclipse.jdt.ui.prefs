@@ -1,0 +1,13 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="pkgexpoo.ex01_Cliente"><rhs name\="pkgexpoo.ex01_Cliente"/></lhs><lhs name\="pkgpoo.Figuras"><rhs name\="pkgpoo.Retangulo"/></lhs><lhs name\="pkgpoo.BaseFigura"><rhs name\="pkgpoo.Retangulo"/></lhs><lhs name\="pkgpoo.Retangulo"><rhs name\="pkgpoo.Retangulo"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.Date"/></lhs><lhs name\="java.util.Date"><rhs name\="java.util.Date"/></lhs><lhs name\="pkgcontroledeponto.Funcionario"><rhs name\="pkgcontroledeponto.Funcionario"/></lhs><lhs name\="pkgcontroledeponto.ControleDePonto"><rhs name\="pkgcontroledeponto.Saida"/></lhs><lhs name\="pkgcontroledeponto.Saida"><rhs name\="pkgcontroledeponto.Saida"/></lhs><lhs name\="FuncionarioTeste"><rhs name\="FuncionarioTeste"/></lhs><lhs name\="Funcionario"><rhs name\="Funcionario"/><rhs name\="EditorVideo"/><rhs name\="Administrador"/></lhs><lhs name\="EditorVideo"><rhs name\="EditorVideo"/></lhs><lhs name\="Conta"><rhs name\="ContaPoupanca"/><rhs name\="ContaCorrente"/></lhs><lhs name\="ContaCorrente"><rhs name\="ContaCorrente"/></lhs><lhs name\="ContaPoupanca"><rhs name\="ContaPoupanca"/></lhs><lhs name\="SistemaInterno"><rhs name\="SistemaInterno"/></lhs><lhs name\="FuncionarioAutenticavel"><rhs name\="Administrador"/></lhs><lhs name\="Administrador"><rhs name\="Administrador"/></lhs><lhs name\="AutenticadorUtil"><rhs name\="AutenticadorUtil"/></lhs><lhs name\="Tributavel"><rhs name\="ContaCorrente"/><rhs name\="SeguroDeVida"/></lhs><lhs name\="SeguroDeVida"><rhs name\="SeguroDeVida"/></lhs><lhs name\="CalculadorDeImposto"><rhs name\="CalculadorDeImposto"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+typefilter_migrated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
